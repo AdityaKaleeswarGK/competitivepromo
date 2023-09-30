@@ -1,3 +1,4 @@
+// STRING CREATE
 def add():
     t = int(input())
     
